@@ -2,7 +2,8 @@ import React from "react";
 import Preloader from "./components/Preloader/Preloader";
 import Timer from "./components/Countdown/Timer";
 import Optin from "./components/Optin/Optin";
-import './App.css';
+import Social from "./components/Social/Social";
+import "./App.css";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         </h1>
         <Timer />
         <Optin />
+        <Social />
         <Preloader />
       </div>
     </div>

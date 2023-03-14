@@ -1,0 +1,28 @@
+.social-container {
+  padding: 25px 50px;
+}
+
+a.social {
+  margin: 0 auto;
+  transition: transform 2s;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: scale(1.5);
+}
+
+a.facebook {
+  color: #eee;
+  padding: 10px;
+}
+
+a.linkedin {
+  color: #eee;
+  padding: 10px;
+}
+
+a.instagram {
+  color: #eee;
+  padding: 10px;
+}
