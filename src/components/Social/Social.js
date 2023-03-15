@@ -15,6 +15,7 @@ class Social extends Component {
           href="https://www.facebook.com/COMPPEC/"
           className="facebook"
           target="_blank"
+          rel="noreferrer"
         >
           <FontAwesomeIcon icon={faFacebook} size="2x" />
         </a>
@@ -22,6 +23,7 @@ class Social extends Component {
           href="https://www.instagram.com/COMPPEC"
           className="instagram"
           target="_blank"
+          rel="noreferrer"
         >
           <FontAwesomeIcon icon={faInstagram} size="2x" />
         </a>
@@ -29,6 +31,7 @@ class Social extends Component {
           href="https://www.linkedin.com/company/comppec"
           className="linkedin"
           target="_blank"
+          rel="noreferrer"
         >
           <FontAwesomeIcon icon={faLinkedin} size="2x" />
         </a>
