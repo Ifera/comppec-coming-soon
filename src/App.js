@@ -3,11 +3,13 @@ import Preloader from "./components/Preloader/Preloader";
 import Timer from "./components/Countdown/Timer";
 import Optin from "./components/Optin/Optin";
 import Social from "./components/Social/Social";
+import Video from "./components/Video/Video";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
+      <Video />
       <div className="container">
         <div className="centered">
           <h1>
