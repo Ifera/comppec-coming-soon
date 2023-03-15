@@ -9,14 +9,16 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>
-          COMPPEC '23
-          <br />
-          Coming Soon
-        </h1>
-        <Timer />
-        <Optin />
-        <Social />
+        <div className="centered">
+          <h1>
+            COMPPEC '23
+            <br />
+            Coming Soon
+          </h1>
+          <Timer />
+          <Optin />
+          <Social />
+        </div>
         <Preloader />
       </div>
     </div>

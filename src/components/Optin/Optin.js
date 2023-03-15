@@ -6,8 +6,8 @@ class Optin extends Component {
     return (
       <div className="optin">
         <p>
-          Stay tuned. Our website will be launching soon! Follow our social
-          media for Updates!
+          Our website will be launching soon! Follow our social media for
+          Updates!
         </p>
       </div>
     );
